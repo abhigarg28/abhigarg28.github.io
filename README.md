@@ -8,9 +8,6 @@
   </a>
 </p>
 
-King of Prussia, PA  
-Cell: (856)383-9784
-
 ## Summary of Qualifications
 
 * Quick learner with a passion of learning new technologies and getting hands dirty. Like to take calculated risks and learn from them.
