@@ -16,7 +16,7 @@ analytical, problem solving & organizational abilities with a flexible & detail-
 
 *Professional Experiences*
 
-DevOps Engineer, Cred Inc, San Mateo, CA							Sep 2020 - present
+DevOps Engineer, Cred Inc, San Mateo, CA							Sep 2020 - Jan 2020
 
 Technology: Kubernetes, Docker, Terraform Dry, AWS (EKS, Parameter Store, SSM, IAM, etc), Argo-CD, Prometheus, Grafana, Github, Jenkins, Python, Bash, Jira
 
