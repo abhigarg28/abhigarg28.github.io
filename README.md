@@ -1,6 +1,6 @@
 ## Abhishek Garg			
 <p>
-  <a href="https://www.linkedin.com/abhigarg28" rel="nofollow noreferrer">
+  <a href="https://www.linkedin.com/in/abhigarg28/" rel="nofollow noreferrer">
     <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
   </a> &nbsp; 
   <a href="https://github.com/abhigarg28" rel="nofollow noreferrer">
