@@ -1,8 +1,8 @@
-Abhishek Garg			
+## Abhishek Garg			
 King of Prussia, PA
 Cell: (856)383-9784
 
-*Summary of Qualifications*
+## Summary of Qualifications
 
 * Quick learner with a passion of learning new technologies and getting hands dirty. Like to take calculated risks and learn from them.
 * 8+ years of software industry experience, started as a L3 support person, to a research assistant, to a frontend developer, to a full stack developer and now working as a devops engineer.
@@ -14,9 +14,9 @@ Cell: (856)383-9784
 * An effective communicator with excellent relationship building & interpersonal skills along with strong
 analytical, problem solving & organizational abilities with a flexible & detail-oriented attitude.
 
-*Professional Experiences*
+## Professional Experiences
 
-DevOps Engineer, Cred Inc, San Mateo, CA							Sep 2020 - Jan 2020
+### DevOps Engineer, Cred Inc, San Mateo, CA							Sep 2020 - Jan 2020
 
 Technology: Kubernetes, Docker, Terraform Dry, AWS (EKS, Parameter Store, SSM, IAM, etc), Argo-CD, Prometheus, Grafana, Github, Jenkins, Python, Bash, Jira
 
@@ -26,7 +26,7 @@ Key Responsibilities:
 * Automated infrastructure deployment utilizing terraform dry in AWS
 * Managed backup and recovery solutions of systems and performed network and storage administration for production environments
 
-Dell Boomi, Chesterbrook, Pennsylvania, US							Jul 2015 - Sep 2020
+### Dell Boomi, Chesterbrook, Pennsylvania, US							Jul 2015 - Sep 2020
 
 Senior DevOps Engineer									Feb 2018 - Sep 2020
 
@@ -58,31 +58,31 @@ Key Responsibilities:
 * Subject matter expert for multiple products. 
 * Responsible for design, development and unit testing of the Boomi products including enhancements and/or resolution of any issues that may be reported.
 
-Graduate Research Assistant, Rutgers University, Camden, NJ				May 2014 - Aug 2014
+### Graduate Research Assistant, Rutgers University, Camden, NJ				May 2014 - Aug 2014
 
 Worked on designing an algorithm to interpret complex, low template forensic DNA samples and created an easy to use desktop application to upload the data and view the results in graphical format.
 
 
-System Engineer, Tata Consultancy Services, Bengaluru, India				 Jan 2011-Dec 2013
+### System Engineer, Tata Consultancy Services, Bengaluru, India				 Jan 2011-Dec 2013
 
 Contributed in maintaining, developing and fixing bugs in an online billing system (FSCM/db-ebills) for Deutsche Bank. The system is used to maintain the trading business and to track, upload, view, dispute, accept, authorize and initiate payments in accordance with Deutsche Bank. 
 Links: https://fscm.gtb.db.com and https://dbebills.db.com
 
-*Certifications*
+## Certifications
 
 AWS Certified Solutions Architect - Associate	-	Expires Nov 2022
 
-*Publication*
+## Publication
 
 Harish Swaminathan, Abhishek Garg, Catherine M.Grgicak, Muriel Medard, Desmond S. Lun
 CEESIt: A Computational Tool for the Interpretation of STR Mixtures, Forensic Science International: Genetics  (2016), pp. 149-160, 10.1016/j.fsigen.2016.02.005
 
-Education
+## Education
 
-Rutgers – The State University of New Jersey – Camden, NJ					 Jan 2014 – May 2015
+### Rutgers – The State University of New Jersey – Camden, NJ					 Jan 2014 – May 2015
 
 Graduated with 3.75 GPA in Masters of Scientific Computing and Completed a thesis on “Development of a Computational for Forensic DNA Analysis”.
 
-Uttarakhand Technical University, Dehradun, India					            July 2006 – April 2010
+### Uttarakhand Technical University, Dehradun, India					            July 2006 – April 2010
 
 Graduated with a first division in Bachelors of Technology (B. Tech.) in Computer Science and Engineering
