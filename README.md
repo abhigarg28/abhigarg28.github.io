@@ -59,22 +59,30 @@ Key Responsibilities:
 * Responsible for design, development and unit testing of the Boomi products including enhancements and/or resolution of any issues that may be reported.
 
 Graduate Research Assistant, Rutgers University, Camden, NJ				May 2014 - Aug 2014
+
 Worked on designing an algorithm to interpret complex, low template forensic DNA samples and created an easy to use desktop application to upload the data and view the results in graphical format.
 
+
 System Engineer, Tata Consultancy Services, Bengaluru, India				 Jan 2011-Dec 2013
+
 Contributed in maintaining, developing and fixing bugs in an online billing system (FSCM/db-ebills) for Deutsche Bank. The system is used to maintain the trading business and to track, upload, view, dispute, accept, authorize and initiate payments in accordance with Deutsche Bank. 
 Links: https://fscm.gtb.db.com and https://dbebills.db.com
 
 *Certifications*
+
 AWS Certified Solutions Architect - Associate	-	Expires Nov 2022
 
 *Publication*
+
 Harish Swaminathan, Abhishek Garg, Catherine M.Grgicak, Muriel Medard, Desmond S. Lun
 CEESIt: A Computational Tool for the Interpretation of STR Mixtures, Forensic Science International: Genetics  (2016), pp. 149-160, 10.1016/j.fsigen.2016.02.005
+
 Education
 
 Rutgers – The State University of New Jersey – Camden, NJ					 Jan 2014 – May 2015
+
 Graduated with 3.75 GPA in Masters of Scientific Computing and Completed a thesis on “Development of a Computational for Forensic DNA Analysis”.
 
 Uttarakhand Technical University, Dehradun, India					            July 2006 – April 2010
+
 Graduated with a first division in Bachelors of Technology (B. Tech.) in Computer Science and Engineering
