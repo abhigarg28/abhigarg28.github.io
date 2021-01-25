@@ -1,5 +1,14 @@
 ## Abhishek Garg			
-King of Prussia, PA
+<p>
+  <a href="https://www.linkedin.com/abhigarg28" rel="nofollow noreferrer">
+    <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
+  </a> &nbsp; 
+  <a href="https://github.com/abhigarg28" rel="nofollow noreferrer">
+    <img src="https://i.stack.imgur.com/tskMh.png" alt="github"> Github
+  </a>
+</p>
+
+King of Prussia, PA  
 Cell: (856)383-9784
 
 ## Summary of Qualifications
