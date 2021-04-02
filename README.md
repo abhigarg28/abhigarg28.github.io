@@ -11,16 +11,22 @@
 ## Summary of Qualifications
 
 * Quick learner with a passion of learning new technologies and getting hands dirty. Like to take calculated risks and learn from them.
-* 8+ years of software industry experience, started as a L3 support person, to a research assistant, to a frontend developer, to a full stack developer and now working as a devops engineer.
+* 9+ years of software industry experience, started as a L3 support person, to a research assistant, to a frontend developer, to a full stack developer and now working as a devops engineer.
 * Extensive hands-on project development for production environment spanning cloud vendors (AWS, Azure), Agile Methodologies, scripting languages(Ansible, Python, Bash), programming languages (Java 8, J2EE, HTML 5, CSS 3) using IDEs (Idea/Eclipse), version control (Github, bitbucket) and databases (Oracle 10G/MySQL, Hibernate, Liquibase)
-* Everyday AWS practitioner with EC2, S3, ELB, ECS, IAM, VPC, etc.
-* Manage, design and configure the CI/ CD pipelines for projects, CI (mainly with Jenkins) and CD (using ARGO-CD and Jenkins) to EKS
+* Manage, design and configure the CI/ CD pipelines for projects using gitops strategy using tools like CodeFresh and Argo-CD 
 * Used Ansible (Configuration Management) extensively to configure, upgrade and patch servers using Playbooks
-* Strong knowledge of monitoring technologies like Splunk and Pagerduty
-* An effective communicator with excellent relationship building & interpersonal skills along with strong
-analytical, problem solving & organizational abilities with a flexible & detail-oriented attitude.
+* Strong knowledge of logging technologies like Splunk and Pagerduty
+* An effective communicator with excellent relationship building & interpersonal skills along with strong analytical, problem solving & organizational abilities with a flexible & detail-oriented attitude.
 
 ## Professional Experiences
+
+### DC Product Architect 2, Deloitte Digital (Remote)						Mar 2021 - Present
+Technology: Kubernetes, Docker, Terragrunt, Terraform Dry, Azure(AKS, blob storage, etc), Argo-CD, Github, Helm charts, Jira
+
+Key Responsibilities:
+* Setup Azure kubernetes cluster with basic building blocks like ingress-nginx, cert-manger, etc.
+* Setup monitoring tools like prometheus and grafana in Azure kubernetes clusters
+* Automated infrastructure deployment utilizing terraform dry
 
 ### DevOps Engineer, Cred Inc, San Mateo, CA							Sep 2020 - Jan 2020
 
