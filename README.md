@@ -20,7 +20,7 @@
 
 ## Professional Experiences
 
-### DC Product Architect 2, Deloitte Digital (Remote)						Mar 2021 - Present
+### DC Product Architect 2, Deloitte Digital (Remote),						Mar 2021 - Present
 Technology: Kubernetes, Docker, Terragrunt, Terraform Dry, Azure(AKS, blob storage, etc), Argo-CD, Github, Helm charts, Jira
 
 Key Responsibilities:
@@ -28,7 +28,7 @@ Key Responsibilities:
 * Setup monitoring tools like prometheus and grafana in Azure kubernetes clusters
 * Automated infrastructure deployment utilizing terraform dry
 
-### DevOps Engineer, Cred Inc, San Mateo, CA							Sep 2020 - Jan 2020
+### DevOps Engineer, Cred Inc, San Mateo, CA,							Sep 2020 - Jan 2020
 
 Technology: Kubernetes, Docker, Terraform Dry, AWS (EKS, Parameter Store, SSM, IAM, etc), Argo-CD, Prometheus, Grafana, Github, Jenkins, Python, Bash, Jira
 
@@ -38,9 +38,9 @@ Key Responsibilities:
 * Automated infrastructure deployment utilizing terraform dry in AWS
 * Managed backup and recovery solutions of systems and performed network and storage administration for production environments
 
-### Dell Boomi, Chesterbrook, Pennsylvania, US							Jul 2015 - Sep 2020
+### Dell Boomi, Chesterbrook, Pennsylvania, US,							Jul 2015 - Sep 2020
 
-Senior DevOps Engineer									Feb 2018 - Sep 2020
+#### Senior DevOps Engineer,									Feb 2018 - Sep 2020
 
 Technology: 
 Ansible, AWS (EC2, ELB, RDS, S3, VPC, NACL, SES, etc.), Automation, Bitbucket, Bamboo, Jenkins, CloudFormation, JIRA, Confluence, G-Suite, Jetty, Elastic Search, MySQL, NetApp, Disaster Recovery, RHEL, Shell Scripting, New Relic, PagerDuty, Python, Bash.
@@ -60,7 +60,7 @@ Key Responsibilities:
 * Actively involved in understanding devops culture by following, talking and presenting within the organization
 * Implemented solutions keeping RTO and RPO in mind and making sure proper backups or disaster recovery methods are followed
 
-Software Developer										Jul 2015 - Feb 2018
+#### Software Developer,										Jul 2015 - Feb 2018
 
 Technology: Java, Google Web Toolkit, PHP, JavaScript, CSS3, HTML, MySQL, Maven, Bitbucket, Bamboo, Nexus,   JIRA, Confluence, Jetty, Shell Scripting, git
 
@@ -70,12 +70,12 @@ Key Responsibilities:
 * Subject matter expert for multiple products. 
 * Responsible for design, development and unit testing of the Boomi products including enhancements and/or resolution of any issues that may be reported.
 
-### Graduate Research Assistant, Rutgers University, Camden, NJ				May 2014 - Aug 2014
+### Graduate Research Assistant, Rutgers University, Camden, NJ,				May 2014 - Aug 2014
 
 Worked on designing an algorithm to interpret complex, low template forensic DNA samples and created an easy to use desktop application to upload the data and view the results in graphical format.
 
 
-### System Engineer, Tata Consultancy Services, Bengaluru, India				 Jan 2011-Dec 2013
+### System Engineer, Tata Consultancy Services, Bengaluru, India,				 Jan 2011-Dec 2013
 
 Contributed in maintaining, developing and fixing bugs in an online billing system (FSCM/db-ebills) for Deutsche Bank. The system is used to maintain the trading business and to track, upload, view, dispute, accept, authorize and initiate payments in accordance with Deutsche Bank. 
 Links: https://fscm.gtb.db.com and https://dbebills.db.com
@@ -91,10 +91,10 @@ CEESIt: A Computational Tool for the Interpretation of STR Mixtures, Forensic Sc
 
 ## Education
 
-### Rutgers – The State University of New Jersey – Camden, NJ					 Jan 2014 – May 2015
+### Rutgers – The State University of New Jersey – Camden, NJ,					 Jan 2014 – May 2015
 
 Graduated with 3.75 GPA in Masters of Scientific Computing and Completed a thesis on “Development of a Computational for Forensic DNA Analysis”.
 
-### Uttarakhand Technical University, Dehradun, India					            July 2006 – April 2010
+### Uttarakhand Technical University, Dehradun, India,					            July 2006 – April 2010
 
 Graduated with a first division in Bachelors of Technology (B. Tech.) in Computer Science and Engineering
