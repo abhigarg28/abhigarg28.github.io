@@ -19,8 +19,19 @@
 * An effective communicator with excellent relationship building & interpersonal skills along with strong analytical, problem solving & organizational abilities with a flexible & detail-oriented attitude.
 
 ## Professional Experiences
+### Senior DevOps Engineer, SAP							              May 2021 - Present
+Technology: Kubernetes, Docker, Terraform, Azure, Argo-CD, Github, Helm charts, Jira
 
-### DC Product Architect 2, Deloitte Digital (Remote),						Mar 2021 - Present
+Key Responsibilities:
+* Provide technical thought leadership and own the technical engagement and ultimate success around specific innovation challenge projects; define potential implementation architectures
+* Devise a strategy and engage with Account Managers Professional Services and Partners to define a technology approach to a business problem
+* Create assets that capture and share best-practice knowledge across the SAP industry cloud division
+* Observe, learn and gather customer/partner insights (e.g., feedback around technical preferences, environments, business needs) and align with solutions
+* Apply foundational technical knowledge of an architecture solution to meet business and information technology (IT) requirements and resolve identified technical constraints
+* Participate in discussions around architecture design, resiliency reviews, and technical optimization
+
+
+### DC Product Architect 2, Deloitte Digital (Remote),						            Mar 2021 - May 2021
 Technology: Kubernetes, Docker, Terragrunt, Terraform Dry, Azure(AKS, blob storage, etc), Argo-CD, Github, Helm charts, Jira
 
 Key Responsibilities:
