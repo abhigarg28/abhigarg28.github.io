@@ -10,13 +10,13 @@
 
 ## Summary of Qualifications
 
-* Quick learner with a passion of learning new technologies and getting hands dirty. Like to take calculated risks and learn from them.
-* 9+ years of software industry experience, started as a L3 support person, to a research assistant, to a frontend developer, to a full stack developer and now working as a devops engineer.
-* Extensive hands-on project development for production environment spanning cloud vendors (AWS, Azure), Agile Methodologies, scripting languages(Ansible, Python, Bash), programming languages (Java 8, J2EE, HTML 5, CSS 3) using IDEs (Idea/Eclipse), version control (Github, bitbucket) and databases (Oracle 10G/MySQL, Hibernate, Liquibase)
-* Manage, design and configure the CI/ CD pipelines for projects using gitops strategy using tools like CodeFresh and Argo-CD 
-* Used Ansible (Configuration Management) extensively to configure, upgrade and patch servers using Playbooks
-* Strong knowledge of logging technologies like Splunk and Pagerduty
-* An effective communicator with excellent relationship building & interpersonal skills along with strong analytical, problem solving & organizational abilities with a flexible & detail-oriented attitude.
+* An eager, adaptable cloud architect with a flair for rapid assimilation of new technologies, I enjoy getting hands-on with real-world applications, informed risk-taking, and iterative learning from experiences.
+* Accumulating over 9 years of comprehensive industry experience, I have navigated through roles as an L3 support personnel, a research assistant, a front-end developer, and a full-stack developer, settling finally into my current role as a DevOps engineer for the past 5+ years.
+* Extensive hands-on experience in infrastructure automation using strategies like IaC and IaD spanning cloud vendors (AWS, Azure), scripting languages(Terraform, Ansible, Python, Bash), version control (Github, bitbucket), databases (Aurora, DynamoDB, PostgreSQL, CosmosDB, etc.) and Agile Methodologies.
+* Orchestrated, designed, and oversaw CI/CD pipeline configurations for various projects, employing GitOps strategies using tools like Flux-CD and Argo-CD.
+* Strong knowledge of logging technologies like Splunk, prometheus, grafana and incident management tools like Pagerduty.
+* An effective communicator with excellent relationship building & interpersonal skills along with strong analytical, problem-solving solving & organizational abilities with a flexible & detail-oriented attitude.
+
 
 ## Professional Experiences
 ### Senior DevOps Engineer, SAP							              May 2021 - Present
